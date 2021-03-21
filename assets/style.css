@@ -1,0 +1,35 @@
+
+body {
+    padding: 0;
+    margin: 0;
+    background-color:gray;
+    color: gold;
+    margin-bottom: 10px;
+    text-align: center;
+}
+p{
+    color: red;
+    font-size: 1.25em;
+    font-weight: 900;
+}
+
+h1{
+   
+    background-color: black;
+    font-style: italic;
+    
+}
+h2{
+    color:white;
+
+
+}
+
+ul{
+    color:white;
+    list-style-type:none;
+    font-size:1.5em;
+}
+img{
+
+}
