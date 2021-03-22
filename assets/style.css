@@ -5,7 +5,7 @@ body {
     background-color:gray;
     color: gold;
     margin-bottom: 10px;
-    text-align: center;
+    text-align: center;  
 }
 p{
     color: red;
@@ -30,6 +30,15 @@ ul{
     list-style-type:none;
     font-size:1.5em;
 }
-img{
+.container{
+    display: flex;
 
+}
+.box1{
+    align-self: flex-start;
+    justify-self: flex-start;
+}
+.box2{
+    align-self:flex-end;
+    justify-self: flex-end;
 }
